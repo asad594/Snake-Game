@@ -79,9 +79,7 @@ Implemented game loops, collision detection, and event-driven logic
 
 Practiced clean code organization
 
-📷 Screenshots
 
-(Add screenshots of your game UI here)
 
 🔮 Future Improvements
 
